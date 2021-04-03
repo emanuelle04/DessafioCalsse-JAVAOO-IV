@@ -1,1 +1,2 @@
-# Desafio Java Orientado a Objetos IV  Conceitos de herança e encapsualmento aplicados.
+# Desafio Java Orientado a Objetos IV  
+Conceitos: Heranças múltiplas e construtores.
